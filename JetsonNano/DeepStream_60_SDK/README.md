@@ -1,7 +1,7 @@
 <h1 align="center">NVIDIA DeepStream </h1>
 <p align="center">
     <p align="center">Công cụ hỗ trợ xây dựng các ứng dụng AI, giúp truyền tải các luồng video từ file, camera usb/csi hoặc từ luồng RTSP. Nhằm tích hợp các thuật toán, mô hình Computer Vision để phân tích các luồng video</p>
-    <img src="DeepStream_Overview.png">
+    <img src="images/DeepStream_Overview.png">
 </p>
 
 > [DeepStream Documentation](https://docs.nvidia.com/metropolis/deepstream/6.0/dev-guide/text/DS_Overview.html#nvidia-deepstream-overview)
@@ -16,7 +16,7 @@ DeepStream có nhiều khối xây dựng từ plugin GStreamer. Người dùng 
 
 Ví dụ:
 <p align="center">
-    <img src="DS_overview_graph_architecture.png">
+    <img src="images/DS_overview_graph_architecture.png">
 </p>
 
 - Đầu vào là các luồng hình ảnh từ camera thông qua stream RTSP. CPU sẽ đọc và lưu vào Memory.
@@ -35,12 +35,12 @@ Ví dụ:
 > Ví dụ, chúng ta cấp luồng video RTSP và nhận lại kết quả suy luận, mọi thứ xử lý được làm hết bên trong Piple của DeepStream.
 
 <p align="center">
-    <img src="DS_overview_reference_app.png">
+    <img src="images/DS_overview_reference_app.png">
 </p>
 
 # **Bắt đầu xây dựng một ứng dụng DeepStream**
 <p align="center">
-    <img src="DS_overview_building_apps.png">
+    <img src="images/DS_overview_building_apps.png">
 </p>
 Để bắt đầu với DeepStream, hãy xem qua các app mẫu về nó. 
 
@@ -53,5 +53,5 @@ Ví dụ:
 
 # **Xây dựng DeepStream app với Python**
 <p align="center">
-    <img src="DS_Overview_deepstream_python.png">
+    <img src="images/DS_Overview_deepstream_python.png">
 </p>
