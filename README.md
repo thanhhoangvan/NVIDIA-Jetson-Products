@@ -33,7 +33,30 @@
 
 <hr>
 
+# **NVIDIA JETSON AGX Orin Nano**
+
+
+<h1>
+
 # **NVIDIA JETSON AGX XAVIER**
 <p align="center">
     <img src="./images/jetson_agx_orin.png" />
+</p>
+
+
+<h1>
+
+
+# **NVIDIA JETSON AGX Orin NX**
+
+<hr>
+
+# **NVIDIA JETSON AGX Orin**
+
+
+<hr>
+
+# **NVIDIA JETSON IGX**
+<p align="center">
+    <img src="./images/jetson_igx.png" />
 </p>
