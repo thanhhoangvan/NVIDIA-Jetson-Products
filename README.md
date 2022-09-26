@@ -1,6 +1,6 @@
-<h1 align="center">NVIDIA Jetson Products</h1>
+<h1 align="center"><b>NVIDIA Jetson Products</b></h1>
 <p align="center">
-    Learn everything about Nvidia Jetson AI computing series products
+    Tìm hiểu các công nghệ liên quan đến các dòng sản phẩm máy tính nhúng AI của hãng NVIDIA
     <br>
     <img src="./images/nvidia_jetson_devices.png" />
 </p>
@@ -60,3 +60,13 @@
 <p align="center">
     <img src="./images/jetson_igx.png" />
 </p>
+
+
+<hr>
+<h1 align="center"><b>~ NVIDIA DRIVE ~<br>Embedded Computer for Self-driving Car</b></h1>
+
+# *NVIDIA DRIVE*
+
+# *NVIDIA DRIVE XAVIER*
+
+# *NVIDIA DIRVE PGASUS*
